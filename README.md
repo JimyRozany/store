@@ -1,0 +1,2 @@
+# store
+react app only
